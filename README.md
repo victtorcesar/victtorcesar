@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá DEV 👋
 
 <!--
 **victtorcesar/victtorcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Muito Prazer eu sou o Victor, estudante de Desevolvimento Web Fullstack e Designer Gráfico.
