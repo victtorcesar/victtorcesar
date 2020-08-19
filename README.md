@@ -1,18 +1,38 @@
-### Olá DEV 👋
+# Victtor Cesar
 
-<!--
-**victtorcesar/victtorcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Eu sou o Victor, estudante de Desenvolvimento Web, buscando me tornar um Desenvolvedor Web Fullstack
 
-Here are some ideas to get you started:
+Meu objetivo é me formar e ingressar no mercado de trabalho, trabalhando com as principais tecnologias do mercado.👨🏻‍💻
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
 
-Muito Prazer eu sou o Victor, estudante de Desevolvimento Web Fullstack e Designer Gráfico.
+## Tecnologias que estudo
+
+* HTML5
+* CSS3
+* Javascript
+* NodeJS
+* Mongo DB
+
+## Tecnologias que prentendo estudar
+
+* ReactJS 
+* React Native
+* VueJS
+* PHP
+* Laravel
+* Angular
+* Dart
+* Flutter
+* Ruby
+* Ruby on Rails
+
+## Onde Estudo
+
+<p>
+    Atualemente estudo na Rocketseat, no Curso Starter, focado em Javascript(ES6+, NodeJS, ReactJS e React Native)🚀
+</p>
+<p>
+    E também estudo na Cod3r, onde estudo Fullstack Web, com foco em todas as tecnologias Web, focado na Stack Javascript.🛸
+</p>
