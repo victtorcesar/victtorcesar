@@ -1,16 +1,23 @@
-### Hi there 👋
+**Eu sou o Victtor, prazer!😎**
 
-<!--
-**victtorcesar/victtorcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Victtor, designer freelancer e estudante de programação, focado em FrontEnd. Meu objetivo é me ternar um FullStack Designer, UX, UI e FrontEnd, para criação de aplicações mais completas e incríveis.
 
-Here are some ideas to get you started:
+**Tecnologias que estou estudando📘**
+<div style="display: inline_block">
+	<img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+<br>
+Tecnologias que já aprendi✅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+	 <img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	<img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+	<img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<div style="display: inline_block">
+<br>
+Minhas Redes Sociais
+<div>
+	<a href="https://www.behance.net/victtorcesardsgn" target="_blank"><img 			   src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/victtorcesar/" target="_blank"><img 			   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href=https://www.instagram.com/victtorcesardsgn/" target="_blank"><img 			   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
