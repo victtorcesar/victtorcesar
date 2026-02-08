@@ -1,6 +1,6 @@
 **Eu sou o Victtor, prazer!😎**
 
-Eu sou o Victtor, designer freelancer e estudante de programação, focado em FrontEnd. Meu objetivo é me ternar um FullStack Designer, UX, UI e FrontEnd, para criação de aplicações mais completas e incríveis.
+Eu sou o Victtor, designer freelancer e estudante de programação.
 
 **Tecnologias que estou estudando📘**
 <div style="display: inline_block">
