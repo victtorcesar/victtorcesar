@@ -1,23 +1,37 @@
-**Eu sou o Victtor, prazer!😎**
+# Olá, eu sou o Victtor! 🚀
 
-Eu sou o Victtor, designer freelancer e estudante de programação.
+### Especialista em Front-end Low Code & UI Design
 
-**Tecnologias que estou estudando📘**
-<div style="display: inline_block">
-	<img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-<br>
-Tecnologias que já aprendi✅
+Transformo ideias em interfaces de alto impacto, unindo a agilidade do ecossistema Low Code com a robustez de animações e o poder da Inteligência Artificial.
 
-<div style="display: inline_block">
-	 <img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	<img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img align="center" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<div style="display: inline_block">
-<br>
-Minhas Redes Sociais
-<div>
-	<a href="https://www.behance.net/victtorcesardsgn" target="_blank"><img 			   src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/victtorcesar/" target="_blank"><img 			   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=https://www.instagram.com/victtorcesardsgn/" target="_blank"><img 			   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+---
+
+### 🛠️ Minha Stack de Especialista
+
+**Front-end & Low Code:**
+* 🌍 **WordPress & Elementor:** Criação de Landing Pages de alta conversão e performance.
+* ⚡ **GSAP (GreenSock):** Animações premium e interações avançadas.
+* 🧩 **Custom Development:** Criação de Soluções em PHP e JavaScript.
+
+**Design UI & IA:**
+* 🎨 **Ferramentas:** Domínio de Figma, Affinity Suite e Adobe Creative Cloud.
+* 🤖 **AI Toolkit:** Fluxo de trabalho otimizado com Gemini, Krea, ImageFX e Nano Banana.
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+<p align="left">
+  <a href="https://victtorstudio.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/victtorcesar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://www.behance.net/victtorcesardsgn" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+  <a href="https://www.instagram.com/victtorcesardsgn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
